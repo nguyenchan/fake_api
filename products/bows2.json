@@ -19,6 +19,70 @@
 		"id": 3,
 		"name": "Tang Changan",
 		"price": 400,
+		"image": "https://static.wixstatic.com/media/e72da7_783010a4423d48799c1d92e29cca0702~mv2_d_5760_3840_s_4_2.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 4,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 5,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 6,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 7,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 8,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 9,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 10,
+		"name": "Tang Changan",
+		"price": 400,
+		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"category": "laminated",
+		"description": "this is the bow"
+	},
+	{
+		"id": 11,
+		"name": "Tang Changan",
+		"price": 400,
 		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
 		"category": "laminated",
 		"description": "this is the bow"
