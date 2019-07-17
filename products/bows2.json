@@ -43,25 +43,25 @@
 		"id": 6,
 		"name": "Tang Loulan",
 		"price": 300,
-		"image": "https://static.wixstatic.com/media/e72da7_2af5216bc5af4ebaa29c249aa155afda~mv2.jpg",
+		"image": "https://static.wixstatic.com/media/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
 		"description": "Our Tang Loulan bow is based on many historical paintings and a few surviving artifacts. It is on the larger size for the long-siya-short-limb bows for stability, yet the prominent recurve shape still let it have a good arrow speed. The Loulan has wider limbs than the other bows of the similar design. The wider limb provides more stability for the release. String Length: 1.37 Meter. Unstrung Bow Length (siyah to siyah): 1.34 Meter. Draw length: up to 32inchs."
 	},
 	{
 		"id": 7,
-		"name": "Tang Changan5",
-		"price": 400,
-		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"name": "Tibetan Qinghai",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_fa5cac39da684dcc9850ad266d93b5c2~mv2.png",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "The tibetan bow is based on the bows currently being used by the Tibetan people of the Qinghai province. This bow reflects influence from the Manchu bows, featuring a prominently reflexed siyah and a string bridge. It is shorter than the Manchu bow, making it a little easier to handle while having a comparatively powerful punch. It prefers slightly heavier arrows. String Length: 1.36 meter."
 	},
 	{
 		"id": 8,
-		"name": "Tang Changan6",
-		"price": 400,
-		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"name": "Turkish Bow",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_7f1b55ab968642d188243b2ab274ba25~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "The famous turkish bow is used in the Ottoman Empire. It is one of the shortest bow in history. The short limbs give it superior power when shooting lighter arrows over long distance, while the unique outward-bulging grip make it more comfortable to hold for many archers. Unstrung Bow Length (siyah to siyah): 1 Meter. Draw length: up to 29inchs"
 	},
 	{
 		"id": 9,
