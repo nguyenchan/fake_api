@@ -3,17 +3,17 @@
 		"id": 1,
 		"name": "Tang Dunhoang",
 		"price": 300,
-		"image": "https://static.wixstatic.com/media/e72da7_69c310942365447388f1a6ce7f745139~mv2_d_5382_3588_s_4_2.jpg/v1/fit/w_498,h_332,q_90/file.jpg",
+		"image": "https://static.wixstatic.com/media/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "Dunhuang is a place on the edge of the Tang Dynasty’s border. It is famous for the buddhist caves with a large number of colored wall paintings. Due to its location, the paintings shows a mixture of style between central Asia and China. This bow is based on paintings of these caves. It is similar the Tang bows, but with even shorter limbs, which means faster arrow speed. String Length: 1.28 Meter (Short version), 1.38 Meter (Regular version), 1.44 Meter (Long version). Draw length: up to 32’’ (Regular) and up to 35'' (Long)"
 	},
 	{
 		"id": 2,
 		"name": "Tang Dunhoang(long)",
 		"price": 300,
-		"image": "https://static.wixstatic.com/media/e72da7_69c310942365447388f1a6ce7f745139~mv2_d_5382_3588_s_4_2.jpg/v1/fit/w_498,h_332,q_90/file.jpg",
+		"image": "https://static.wixstatic.com/media/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "The long version of Tang Dunhoang"
 	},
 	{
 		"id": 3,
