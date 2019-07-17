@@ -65,26 +65,34 @@
 	},
 	{
 		"id": 9,
-		"name": "Tang Changan7",
-		"price": 400,
-		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"name": "Tatar Bow",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_d86dbf0a658245369c5636436ba6b62d~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "The world famous Crimean Tatar Bow! String Length: 1.15 Meter short and 1.32 Meter long. Unstrung Bow Length from siyah to siyah: 1.15 Meter short and 1.25 Meter Long. Draw length: up to 30inchs short and up to 32inchs long"
 	},
 	{
 		"id": 10,
-		"name": "Tang Changan8",
-		"price": 400,
-		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"name": "Ming Emperor",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_3f23a476b06e43f69c6131595f192d0a~mv2_d_5438_3625_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "This bow is an interpretation of the bow carried by Emperor Wanli (1563-1620) of the Ming dynasty, in a painting depicting him going to pay tribute to the ancestral tombs of the royal family. String Length: 1.3 Meter. Draw length: up to 32inchs."
 	},
 	{
 		"id": 11,
-		"name": "Tang Changan9",
-		"price": 400,
-		"image": "https://ae01.alicdn.com/kf/HTB10oJ_SVXXXXcFXVXXq6xXFXXXK/LongbowMaker-Ali-Bow-Tang-Chang-An-Traditional-Handmade-Hungarian-Longbow-Archery-Hunting-Recurve-Bow-Laminated-Bow.jpg_640x640.jpg",
+		"name": "Han Bow",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_0791f36550374d3eb91311650ec853e8~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
-		"description": "this is the bow"
+		"description": "This kind of long siyah, short limb bows were used widely in Asia between 200 BC and 1300 AD. To make this bow perfect, we applied the best materiel and design we can come up with now. This bow can sustain a 31inchs draw. String Length: 1.30 Meter. Unstrung Bow Length: 1.30 Meter."
+	},
+	{
+		"id": 12,
+		"name": "Xuanwu Bow",
+		"price": 300,
+		"image": "https://static.wixstatic.com/media/e72da7_114f542b905040f489ef8290145fcce6~mv2.png",
+		"category": "laminated",
+		"description": "String Length: 1.4 meter. Draw Weight @28'': 20 to 70lbs @28inchs. Maximum Safe Draw Length: 33'' for 40lbs@28'' or lighter. 31'' for 45lbs@28'' or heavier."
 	}
 ]
