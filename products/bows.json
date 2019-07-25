@@ -39,6 +39,7 @@
 		"id": 5,
 		"name": "Mongol Kheshig",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_791f4ce6d48e4640ab4498e16405c5f9~mv2.png/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_791f4ce6d48e4640ab4498e16405c5f9~mv2.png",
 		"category": "laminated",
 		"description": "The Kheshig Mongol Bow is inspired by the bows used by the Mongol army in the 13th century. These bows are featured with long siyah and wide limbs. The wide limb makes it very stable thus the bow may shoot more accurately than other bows, if used properly. String Length: 1.38 meter"
@@ -47,6 +48,7 @@
 		"id": 6,
 		"name": "Tang Loulan",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
 		"description": "Our Tang Loulan bow is based on many historical paintings and a few surviving artifacts. It is on the larger size for the long-siya-short-limb bows for stability, yet the prominent recurve shape still let it have a good arrow speed. The Loulan has wider limbs than the other bows of the similar design. The wider limb provides more stability for the release. String Length: 1.37 Meter. Unstrung Bow Length (siyah to siyah): 1.34 Meter. Draw length: up to 32inchs."
@@ -55,6 +57,7 @@
 		"id": 7,
 		"name": "Tibetan Qinghai",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_fa5cac39da684dcc9850ad266d93b5c2~mv2.png/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_fa5cac39da684dcc9850ad266d93b5c2~mv2.png",
 		"category": "laminated",
 		"description": "The tibetan bow is based on the bows currently being used by the Tibetan people of the Qinghai province. This bow reflects influence from the Manchu bows, featuring a prominently reflexed siyah and a string bridge. It is shorter than the Manchu bow, making it a little easier to handle while having a comparatively powerful punch. It prefers slightly heavier arrows. String Length: 1.36 meter."
@@ -63,6 +66,7 @@
 		"id": 8,
 		"name": "Turkish Bow",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_7f1b55ab968642d188243b2ab274ba25~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_7f1b55ab968642d188243b2ab274ba25~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
 		"description": "The famous turkish bow is used in the Ottoman Empire. It is one of the shortest bow in history. The short limbs give it superior power when shooting lighter arrows over long distance, while the unique outward-bulging grip make it more comfortable to hold for many archers. Unstrung Bow Length (siyah to siyah): 1 Meter. Draw length: up to 29inchs"
@@ -71,6 +75,7 @@
 		"id": 9,
 		"name": "Tatar Bow",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_d86dbf0a658245369c5636436ba6b62d~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_d86dbf0a658245369c5636436ba6b62d~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
 		"description": "The world famous Crimean Tatar Bow! String Length: 1.15 Meter short and 1.32 Meter long. Unstrung Bow Length from siyah to siyah: 1.15 Meter short and 1.25 Meter Long. Draw length: up to 30inchs short and up to 32inchs long"
@@ -79,6 +84,7 @@
 		"id": 10,
 		"name": "Ming Emperor",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_3f23a476b06e43f69c6131595f192d0a~mv2_d_5438_3625_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_3f23a476b06e43f69c6131595f192d0a~mv2_d_5438_3625_s_4_2.jpg",
 		"category": "laminated",
 		"description": "This bow is an interpretation of the bow carried by Emperor Wanli (1563-1620) of the Ming dynasty, in a painting depicting him going to pay tribute to the ancestral tombs of the royal family. String Length: 1.3 Meter. Draw length: up to 32inchs."
@@ -87,6 +93,7 @@
 		"id": 11,
 		"name": "Han Bow",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_0791f36550374d3eb91311650ec853e8~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_0791f36550374d3eb91311650ec853e8~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "laminated",
 		"description": "This kind of long siyah, short limb bows were used widely in Asia between 200 BC and 1300 AD. To make this bow perfect, we applied the best materiel and design we can come up with now. This bow can sustain a 31inchs draw. String Length: 1.30 Meter. Unstrung Bow Length: 1.30 Meter."
@@ -95,6 +102,7 @@
 		"id": 12,
 		"name": "Xuanwu Bow",
 		"price": 300,
+		"thumb": "https://static.wixstatic.com/media/e72da7_114f542b905040f489ef8290145fcce6~mv2.png/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
 		"image": "https://static.wixstatic.com/media/e72da7_114f542b905040f489ef8290145fcce6~mv2.png",
 		"category": "laminated",
 		"description": "String Length: 1.4 meter. Draw Weight @28'': 20 to 70lbs @28inchs. Maximum Safe Draw Length: 33'' for 40lbs@28'' or lighter. 31'' for 45lbs@28'' or heavier."
