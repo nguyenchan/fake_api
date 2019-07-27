@@ -160,5 +160,32 @@
 		"image": "https://static.wixstatic.com/media/e72da7_e798b98133164889882b6d114b44390a~mv2.jpg",
 		"category": "fiberglass",
 		"description": "The world famous Tatar Bow! Now with ergonomic grip--- slightly bulged and rounded up making it more comfortable to hold! -String Length: 1.22 Meter -Draw length: up to 31inchs -Draw Weight: 20 to 50 lbs at 28inchs."
+	},
+	{
+		"id": 19,
+		"name": "Mini Tibetan (Youth)",
+		"price": 60,
+		"thumb": "https://static.wixstatic.com/media/e72da7_e901c55739e3473893dde9dc8c73071b.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
+		"image": "https://static.wixstatic.com/media/e72da7_e901c55739e3473893dde9dc8c73071b.jpg",
+		"category": "fiberglass",
+		"description": "Mini Tibetan Some of you guys were not satisfied for the Han bows and you asked for more “punch”---weill here is this bow. It is a down-sized version of the Tibetan “Qinghai”. It is very short so ideal for small children. It can also be used by adults at higher draw weight for a fun-shooting experience and with more punch. -String Length: Small 82cm -Difficulty: 2/5 -Draw Length: up to 23inchs -Draw Weight: 15 to 40 lbs (measured at 23inchs)."
+	},
+	{
+		"id": 20,
+		"name": "Mini Han (Youth)",
+		"price": 55,
+		"thumb": "https://static.wixstatic.com/media/e72da7_962d11bddaca40acaff30b4796b68576.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
+		"image": "https://static.wixstatic.com/media/e72da7_962d11bddaca40acaff30b4796b68576.jpg",
+		"category": "fiberglass",
+		"description": "Mini Han This bow is a down-sized version of the junior bow. Therefore it is ideal for small children. It can also be used by adults at higher draw weight for a fun-shooting experience. -Bow Length: 82cm or 90cm (longer for longer draw length) -Difficulty: 2/5 -Draw Length: up to 23inchs (bow length 82cm) or up to 25inchs (bow length 90cm) -Draw Weight: 5 to 40 lbs. (measured at 23inchs)."
+	},
+	{
+		"id": 21,
+		"name": "Junior Bow (Youth)",
+		"price": 65,
+		"thumb": "https://static.wixstatic.com/media/e72da7_55e1a10a7fb546b2930d2f3c0e9d7ad2~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
+		"image": "https://static.wixstatic.com/media/e72da7_55e1a10a7fb546b2930d2f3c0e9d7ad2~mv2_d_5760_3840_s_4_2.jpg",
+		"category": "fiberglass",
+		"description": "This bow is a down-sized version of the Han I bow. As easy to use as Han I, it can sustain a long draw at the same time due to the light draw weight. This bow is versatile, good for children of all age, ladies or elderlies. -String Length: 115cm -Difficulty: 2/5 -Draw Length: up to 33inchs -Draw Weight: 10 to 25 lbs."
 	}
 ]
