@@ -142,5 +142,23 @@
 		"image": "https://static.wixstatic.com/media/e72da7_7c334ce92774423ab79d005c767699da~mv2_d_5760_3840_s_4_2.jpg",
 		"category": "fiberglass",
 		"description": "Starting from the 16th century, soft bow, long arrow becomes a popular trend in Northern Asia, probably due to the development of firearms that long range archery is not as important while the need for close range damage became more important. The manchu bow emerged in the wars and chaos of the late Ming dynasty (1368-1644), and flourished in China in the Qing dynasty (1644-1911). The Manchu warriors brought this bow with their conquest, and it became a symbolic bow of China. With a long limb, and long, reflexed siyah, this bow trades in arrow speed for efficiency shooting heavy arrows at very long draw. Our advanced manchu bow is a newly upgarded version of the our old manchu bow. The Manchurian word Yarha means Leopard. The new version is more efficient, more smooth when drawing (the draw-force curve feels more similar to the antique manchu bow), and has less hand shock due to a special material used. This bow will be a delight to use. -String Length: 1.47 Meter -Draw length: up to 35inchs -Draw Weight: 20 to 50 lbs (at 35inchs)."
+	},
+	{
+		"id": 17,
+		"name": "Tibetan Qinghai",
+		"price": 100,
+		"thumb": "https://static.wixstatic.com/media/e72da7_29f9383044074aef9429e874664e07f9~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
+		"image": "https://static.wixstatic.com/media/e72da7_29f9383044074aef9429e874664e07f9~mv2_d_5760_3840_s_4_2.jpg",
+		"category": "fiberglass",
+		"description": "This bow is based on the bows currently being used by the Tibetan people of the Qinghai province. This bow reflects influence from the Manchu bows, featuring a prominently reflexed siyah and a string bridge. It is shorter than the Manchu bows. It is very easy to handle while having a comparatively powerful punch. According to some customers, this bow performs surprisingly well for being accurate and fast. -String Length: 1.36 Meter regular, 1.2 Meter short -Draw length: up to 33inchs regular, up to 31inchs short -Draw Weight: 20 to 60 lbs."
+	},
+	{
+		"id": 18,
+		"name": "Tatar Bow (Ergonomic Grip)",
+		"price": 75,
+		"thumb": "https://static.wixstatic.com/media/e72da7_e798b98133164889882b6d114b44390a~mv2.jpg/v1/fill/w_900,h_650,al_c,q_85,usm_0.66_1.00_0.01/e72da7_01dd773be2ce4a1abd2df06e4815e38b~mv2_d_5760_3840_s_4_2.webp",
+		"image": "https://static.wixstatic.com/media/e72da7_e798b98133164889882b6d114b44390a~mv2.jpg",
+		"category": "fiberglass",
+		"description": "The world famous Tatar Bow! Now with ergonomic grip--- slightly bulged and rounded up making it more comfortable to hold! -String Length: 1.22 Meter -Draw length: up to 31inchs -Draw Weight: 20 to 50 lbs at 28inchs."
 	}
 ]
